@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "867465449329",
+    "project_id": "mobile-4bdf9",
+    "storage_bucket": "mobile-4bdf9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867465449329:android:253433baeb6d03dcc270d0",
+        "android_client_info": {
+          "package_name": "br.edu.fatecpg.fireathapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQaXMIo1LgQyvMw5wYEEg_NdIGp6Daj7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867465449329:android:38a61c338fe56a0bc270d0",
+        "android_client_info": {
+          "package_name": "br.edu.fatecpg.fireauthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQaXMIo1LgQyvMw5wYEEg_NdIGp6Daj7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867465449329:android:56b52c4a6a97f1b8c270d0",
+        "android_client_info": {
+          "package_name": "br.edu.fatecpg.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQaXMIo1LgQyvMw5wYEEg_NdIGp6Daj7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
